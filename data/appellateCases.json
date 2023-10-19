@@ -1,0 +1,343 @@
+[
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Moyo v. The State",
+        "date": "2023-01-15",
+        "facts": "The appellant, Mr. Moyo, appealed his conviction for theft on the grounds that the trial court misapplied the law in assessing the evidence. The appellant argued that there were inconsistencies in the testimonies of the prosecution witnesses.",
+        "outcome": "The appellate court reviewed the evidence presented at the trial and found significant inconsistencies in the prosecution's case. The court allowed the appeal, quashed the conviction, and acquitted Mr. Moyo of the charges.",
+        "constitutionalCitation": "Section 18(3) of the Zimbabwean Constitution: Every person has the right to a fair, speedy, and public trial, which includes the right to have their case decided without undue delay."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Chikwava v. The State",
+        "date": "2023-02-28",
+        "facts": "The appellant, Mr. Chikwava, appealed his conviction for assault, claiming that the trial court erred in admitting evidence obtained in violation of his constitutional rights. The appellant argued that his confession was coerced and should be excluded.",
+        "outcome": "The appellate court found that the trial court violated Mr. Chikwava's constitutional rights by admitting the coerced confession as evidence. The court allowed the appeal, set aside the conviction, and ordered a retrial without the use of the tainted evidence.",
+        "constitutionalCitation": "Section 50(2) of the Zimbabwean Constitution: Every person has the right to remain silent and not to testify against themselves or to confess guilt."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Nyathi v. The State",
+        "date": "2023-03-15",
+        "facts": "The appellant, Ms. Nyathi, appealed her conviction for drug trafficking, arguing that the trial court failed to consider crucial evidence that could have cast doubt on her guilt. The appellant claimed that her constitutional right to a fair trial was violated.",
+        "outcome": "The appellate court found that the trial court indeed overlooked important evidence that could have affected the outcome of the case. The court allowed the appeal, set aside the conviction, and ordered a retrial to consider the newly discovered evidence.",
+        "constitutionalCitation": "Section 69(1)(d) of the Zimbabwean Constitution: Every person accused of an offense has the right to a fair trial, which includes the right to adduce and challenge evidence."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Dube v. The State",
+        "date": "2023-04-20",
+        "facts": "The appellant, Mr. Dube, appealed his conviction for murder, claiming that the trial court erred in admitting hearsay evidence. The appellant argued that the hearsay evidence was unreliable and should not have been considered.",
+        "outcome": "The appellate court found that the trial court improperly admitted the hearsay evidence, which significantly impacted the fairness of the trial. The court allowed the appeal, set aside the conviction, and ordered a new trial excluding the hearsay evidence.",
+        "constitutionalCitation": "Section 18(4) of the Zimbabwean Constitution: Every person accused of an offense has the right to a fair trial, which includes the right to examine, or have examined, witnesses against them."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Mukono v. The State",
+        "date": "2023-05-10",
+        "facts": "The appellant, Mr. Mukono, appealed his conviction for fraud, arguing that the trial court misinterpreted the law on fraudulent misrepresentation. The appellant claimed that he did not possess the requisite intent to deceive.",
+        "outcome": "The appellate court analyzed the legal elements of fraudulent misrepresentation and concluded that the trial court's interpretation was incorrect. The court allowed the appeal, set aside the conviction, and entered a verdict of acquittal for Mr. Mukono.",
+        "constitutionalCitation": "Section 18(2) of the Zimbabwean Constitution: Every person accused of an offense has the right to be presumed innocent until proven guilty according to law."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Sibanda v. The State",
+        "date": "2023-06-25",
+        "facts": "The appellant, Mr. Sibanda, appealed his conviction for armed robbery, arguing that the trial court's identification evidence was unreliable. The appellant claimed that the witnesses' identification was influenced by suggestive police procedures.",
+        "outcome": "The appellate court found that the identification procedures used by the police were indeed suggestive and violated Mr. Sibanda's right to a fair trial. The court allowed the appeal, set aside the conviction, and ordered a retrial with proper identification evidence.",
+        "constitutionalCitation": "Section 50(1)(c) of the Zimbabwean Constitution: Every person accused of an offense has the right to be presumed innocent until proven guilty, which includes the right not to have improperly obtained evidence admitted against them."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Muzorewa v. The State",
+        "date": "2023-07-18",
+        "facts": "The appellant, Mr. Muzorewa, appealed his conviction for treason, arguing that the trial court misinterpreted the law on treasonable activities. The appellant claimed that his actions did not meet the legal threshold for treason.",
+        "outcome": "The appellate court reviewed the legal elements of treason and concluded that the trial court's interpretation was incorrect. The court allowed the appeal, set aside the conviction, and entered a verdict of acquittal for Mr. Muzorewa.",
+        "constitutionalCitation": "Section 25(3) of the Zimbabwean Constitution: Every person accused of an offense has the right to a fair trial, which includes the right to have the charge proved beyond a reasonable doubt."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Makoni v. The State",
+        "date": "2023-08-10",
+        "facts": "The appellant, Mr. Makoni, appealed his conviction for corruption, claiming that the trial court improperly admitted evidence obtained through entrapment. The appellant argued that his actions were induced by undercover agents.",
+        "outcome": "The appellate court found that the evidence obtained through entrapment violated Mr. Makoni's right to a fair trial. The court allowed the appeal, set aside the conviction, and excluded the evidence obtained through entrapment from any future proceedings.",
+        "constitutionalCitation": "Section 18(5) of the Zimbabwean Constitution: Every person accused of an offense has the right to a fair trial, which includes the right not to have evidence obtained in violation of their constitutional rights admitted against them."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Mutasa v. The State",
+        "date": "2023-09-05",
+        "facts": "The appellant, Mr. Mutasa, appealed his conviction for money laundering, arguing that the trial court improperly admitted evidence obtained through an illegal search and seizure. The appellant claimed that his constitutional rights were violated.",
+        "outcome": "The appellate court found that the evidence obtained through the illegal search and seizure violated Mr. Mutasa's constitutional rights. The court allowed the appeal, set aside the conviction, and excluded the unlawfully obtained evidence from any further proceedings.",
+        "constitutionalCitation": "Section 50(1)(a) of the Zimbabwean Constitution: Every person accused of an offense has the right to be presumed innocent until proven guilty, which includes the right not to have unlawfully obtained evidence admitted against them."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Chitonga v. The State",
+        "date": "2023-10-20",
+        "facts": "The appellant, Mr. Chitonga, appealed his conviction for cybercrime, arguing that the trial court misinterpreted the law on the offense. The appellant claimed that his actions did not fall within the scope of the cybercrime statute.",
+        "outcome": "The appellate court reviewed the cybercrime statute and concluded that the trial court misapplied the law. The court allowed the appeal, set aside the conviction, and entered a verdict of acquittal for Mr. Chitonga.",
+        "constitutionalCitation": "Section 18(6) of the Zimbabwean Constitution: Every person accused of an offense has the right to a fair trial, which includes the right to have any ambiguity in the law resolved in their favor."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Mlilo v. The State",
+        "date": "2023-11-15",
+        "facts": "The appellant, Ms. Mlilo, appealed her conviction for human trafficking, arguing that the trial court erred in admitting hearsay evidence. The appellant claimed that the hearsay evidence was unreliable and should not have been considered.",
+        "outcome": "The appellate court found that the trial court improperly admitted the hearsay evidence, which significantly impacted the fairness of the trial. The court allowed the appeal, set aside the conviction, and ordered a new trial excluding the hearsay evidence.",
+        "constitutionalCitation": "Section 18(4) of the Zimbabwean Constitution: Every person accused of an offense has the right to a fair trial, which includes the right to examine, or have examined, witnesses against them."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Ncube v. The State",
+        "date": "2023-12-10",
+        "facts": "The appellant, Mr. Ncube, appealed his conviction for public violence, arguing that the trial court erred in admitting evidence obtained through torture. The appellant claimed that his constitutional rights were violated.",
+        "outcome": "The appellate court found that the evidence obtained through torture violated Mr. Ncube's constitutional rights. The court allowed the appeal, set aside the conviction, and excluded the evidence obtained through torture from any further proceedings.",
+        "constitutionalCitation": "Section 53(1) of the Zimbabwean Constitution: No person may be subjected to physical or psychological torture or to cruel, inhuman, or degrading treatment or punishment."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Chirwa v. The State",
+        "date": "2024-01-20",
+        "facts": "The appellant, Mr. Chirwa, appealed his conviction for kidnapping, arguing that the trial court misapplied the law on the offense. The appellant claimed that his actions did not meet the legal elements of kidnapping.",
+        "outcome": "The appellate court reviewed the legal elements of kidnapping and concluded that the trial court's interpretation was incorrect. The court allowed the appeal, set aside the conviction, and entered a verdict of acquittal for Mr. Chirwa.",
+        "constitutionalCitation": "Section 18(2) of the Zimbabwean Constitution: Every person accused of an offense has the right to be presumed innocent until proven guilty according to law."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Mazibuko v. The State",
+        "date": "2024-02-15",
+        "facts": "The appellant, Mr. Mazibuko, appealed his conviction for robbery, claiming that the trial court improperly admitted evidence obtained through an unconstitutional search and seizure. The appellant argued that his constitutional rights were violated.",
+        "outcome": "The appellate court found that the evidence obtained through the unconstitutional search and seizure violated Mr. Mazibuko's constitutional rights. The court allowed the appeal, set aside the conviction, and excluded the unlawfully obtained evidence from any further proceedings.",
+        "constitutionalCitation": "Section 50(1)(a) of the Zimbabwean Constitution: Every person accused of an offense has the right to be presumed innocent until proven guilty, which includes the right not to have unlawfully obtained evidence admitted against them."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Moyo v. The State",
+        "date": "2024-03-10",
+        "facts": "The appellant, Mr. Moyo, appealed his conviction for fraud, arguing that the trial court erred in admitting evidence obtained through entrapment. The appellant claimed that his actions were induced by undercover agents.",
+        "outcome": "The appellate court found that the evidence obtained through entrapment violated Mr. Moyo's right to a fair trial. The court allowed the appeal, set aside the conviction, and excluded the evidence obtained through entrapment from any future proceedings.",
+        "constitutionalCitation": "Section 18(5) of the Zimbabwean Constitution: Every person accused of an offense has the right to a fair trial, which includes the right not to have evidence obtained in violation of their constitutional rights admitted against them."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Mukono v. The State",
+        "date": "2024-04-20",
+        "facts": "The appellant, Mr. Mukono, appealed his conviction for drug trafficking, arguing that the trial court failed to consider crucial evidence that could have cast doubt on his guilt. The appellant claimed that his constitutional right to a fair trial was violated.",
+        "outcome": "The appellate court found that the trial court indeed overlooked important evidence that could have affected the outcome of the case. The court allowed the appeal, set aside the conviction, and ordered a retrial to consider the newly discovered evidence.",
+        "constitutionalCitation": "Section 69(1)(d) of the Zimbabwean Constitution: Every person accused of an offense has the right to a fair trial, which includes the right to adduce and challenge evidence."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Nyathi v. The State",
+        "date": "2024-05-15",
+        "facts": "The appellant, Ms. Nyathi, appealed her conviction for corruption, claiming that the trial court misapplied the law in assessing the evidence. The appellant argued that there were inconsistencies in the testimonies of the prosecution witnesses.",
+        "outcome": "The appellate court reviewed the evidence presented at the trial and found significant inconsistencies in the prosecution's case. The court allowed the appeal, quashed the conviction, and acquitted Ms. Nyathi of the charges.",
+        "constitutionalCitation": "Section 18(3) of the Zimbabwean Constitution: Every person has the right to a fair, speedy, and public trial, which includes the right to have their case decided without undue delay."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Dube v. The State",
+        "date": "2024-06-10",
+        "facts": "The appellant, Mr. Dube, appealed his conviction for assault, claiming that the trial court erred in admitting evidence obtained in violation of his constitutional rights. The appellant argued that his confession was coerced and should be excluded.",
+        "outcome": "The appellate court found that the trial court violated Mr. Dube's constitutional rights by admitting the coerced confession as evidence. The court allowed the appeal, set aside the conviction, and ordered a retrial without the use of the tainted evidence.",
+        "constitutionalCitation": "Section 50(2) of the Zimbabwean Constitution: Every person has the right to remain silent and not to testify against themselves or to confess guilt."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Chikwava v. The State",
+        "date": "2024-07-25",
+        "facts": "The appellant, Mr. Chikwava, appealed his conviction for murder, arguing that the trial court's identification evidence was unreliable. The appellant claimed that the witnesses' identification was influenced by suggestive police procedures.",
+        "outcome": "The appellate court found that the identification procedures used by the police were indeed suggestive and violated Mr. Chikwava's right to a fair trial. The court allowed the appeal, set aside the conviction, and ordered a retrial with proper identification evidence.",
+        "constitutionalCitation": "Section 50(1)(c) of the Zimbabwean Constitution: Every person accused of an offense has the right to be presumed innocent until proven guilty, which includes the right not to have improperly obtained evidence admitted against them."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Muzorewa v. The State",
+        "date": "2024-08-20",
+        "facts": "The appellant, Mr. Muzorewa, appealed his conviction for theft, arguing that the trial court misinterpreted the law on the offense. The appellant claimed that his actions did not meet the legal elements of theft.",
+        "outcome": "The appellate court reviewed the legal elements of theft and concluded that the trial court's interpretation was incorrect. The court allowed the appeal, set aside the conviction, and entered a verdict of acquittal for Mr. Muzorewa.",
+        "constitutionalCitation": "Section 18(2) of the Zimbabwean Constitution: Every person accused of an offense has the right to be presumed innocent until proven guilty according to law."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Makoni v. The State",
+        "date": "2024-09-15",
+        "facts": "The appellant, Mr. Makoni, appealed his conviction for fraud, claiming that the trial court erred in admitting evidence obtained through entrapment. The appellant argued that his actions were induced by undercover agents.",
+        "outcome": "The appellate court found that the evidence obtained through entrapment violated Mr. Makoni's right to a fair trial. The court allowed the appeal, set aside the conviction, and excluded the evidence obtained through entrapment from any future proceedings.",
+        "constitutionalCitation": "Section 18(5) of the Zimbabwean Constitution: Every person accused of an offense has the right to a fair trial, which includes the right not to have evidence obtained in violation of their constitutional rights admitted against them."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Matanda v. The State",
+        "date": "2024-10-10",
+        "facts": "The appellant, Mr. Matanda, appealed his conviction for drug possession, arguing that the trial court erred in admitting evidence obtained through an illegal search and seizure. The appellant claimed that his constitutional rights were violated.",
+        "outcome": "The appellate court found that the evidence obtained through the illegal search and seizure violated Mr. Matanda's constitutional rights. The court allowed the appeal, set aside the conviction, and excluded the unlawfully obtained evidence from any further proceedings.",
+        "constitutionalCitation": "Section 50(1)(a) of the Zimbabwean Constitution: Every person accused of an offense has the right to be presumed innocent until proven guilty, which includes the right not to have unlawfully obtained evidence admitted against them."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Moyo v. The State",
+        "date": "2024-11-15",
+        "facts": "The appellant, Mr. Moyo, appealed his conviction for corruption, claiming that the trial court erred in interpreting the law on corrupt practices. The appellant argued that his actions did not meet the legal elements of corruption.",
+        "outcome": "The appellate court reviewed the legal elements of corruption and concluded that the trial court's interpretation was incorrect. The court allowed the appeal, set aside the conviction, and entered a verdict of acquittal for Mr. Moyo.",
+        "constitutionalCitation": "Section 25(3) of the Zimbabwean Constitution: Every person accused of an offense has the right to a fair trial, which includes the right to have the charge proved beyond a reasonable doubt."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Ndlovu v. The State",
+        "date": "2024-12-10",
+        "facts": "The appellant, Ms. Ndlovu, appealed her conviction for human trafficking, arguing that the trial court erred in admitting hearsay evidence. The appellant claimed that the hearsay evidence was unreliable and should not have been considered.",
+        "outcome": "The appellate court found that the trial court improperly admitted the hearsay evidence, which significantly impacted the fairness of the trial. The court allowed the appeal, set aside the conviction, and ordered a new trial excluding the hearsay evidence.",
+        "constitutionalCitation": "Section 18(4) of the Zimbabwean Constitution: Every person accused of an offense has the right to a fair trial, which includes the right to examine, or have examined, witnesses against them."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Makwiramiti v. The State",
+        "date": "2025-01-20",
+        "facts": "The appellant, Mr. Makwiramiti, appealed his conviction for assault, arguing that the trial court erred in admitting evidence obtained in violation of his constitutional rights. The appellant claimed that his confession was coerced and should be excluded.",
+        "outcome": "The appellate court found that the trial court violated Mr. Makwiramiti's constitutional rights by admitting the coerced confession as evidence. The court allowed the appeal, set aside the conviction, and ordered a retrial without the use of the tainted evidence.",
+        "constitutionalCitation": "Section 50(2) of the Zimbabwean Constitution: Every person has the right to remain silent and not to testify against themselves or to confess guilt."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Chinaka v. The State",
+        "date": "2025-02-15",
+        "facts": "The appellant, Mr. Chinaka, appealed his conviction for theft, claiming that the trial court misinterpreted the law on the offense. The appellant argued that his actions did not meet the legal elements of theft.",
+        "outcome": "The appellate court reviewed the legal elements of theft and concluded that the trial court's interpretation was incorrect. The court allowed the appeal, set aside the conviction, and entered a verdict of acquittal for Mr. Chinaka.",
+        "constitutionalCitation": "Section 18(2) of the Zimbabwean Constitution: Every person accused of an offense has the right to be presumed innocent until proven guilty according to law."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Maposa v. The State",
+        "date": "2025-03-10",
+        "facts": "The appellant, Mr. Maposa, appealed his conviction for fraud, claiming that the trial court erred in admitting evidence obtained through entrapment. The appellant argued that his actions were induced by undercover agents.",
+        "outcome": "The appellate court found that the evidence obtained through entrapment violated Mr. Maposa's right to a fair trial. The court allowed the appeal, set aside the conviction, and excluded the evidence obtained through entrapment from any future proceedings.",
+        "constitutionalCitation": "Section 18(5) of the Zimbabwean Constitution: Every person accused of an offense has the right to a fair trial, which includes the right not to have evidence obtained in violation of their constitutional rights admitted against them."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Sibanda v. The State",
+        "date": "2025-04-20",
+        "facts": "The appellant, Mr. Sibanda, appealed his conviction for drug possession, arguing that the trial court erred in admitting evidence obtained through an illegal search and seizure. The appellant claimed that his constitutional rights were violated.",
+        "outcome": "The appellate court found that the evidence obtained through the illegal search and seizure violated Mr. Sibanda's constitutional rights. The court allowed the appeal, set aside the conviction, and excluded the unlawfully obtained evidence from any further proceedings.",
+        "constitutionalCitation": "Section 50(1)(a) of the Zimbabwean Constitution: Every person accused of an offense has the right to be presumed innocent until proven guilty, which includes the right not to have unlawfully obtained evidence admitted against them."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Mlambo v. The State",
+        "date": "2025-05-15",
+        "facts": "The appellant, Mr. Mlambo, appealed his conviction for corruption, claiming that the trial court erred in interpreting the law on corrupt practices. The appellant argued that his actions did not meet the legal elements of corruption.",
+        "outcome": "The appellate court reviewed the legal elements of corruption and concluded that the trial court's interpretation was incorrect. The court allowed the appeal, set aside the conviction, and entered a verdict of acquittal for Mr. Mlambo.",
+        "constitutionalCitation": "Section 25(3) of the Zimbabwean Constitution: Every person accused of an offense has the right to a fair trial, which includes the right to have the charge proved beyond a reasonable doubt."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Mukwashi v. The State",
+        "date": "2025-06-10",
+        "facts": "The appellant, Mr. Mukwashi, appealed his conviction for human trafficking, arguing that the trial court erred in admitting hearsay evidence. The appellant claimed that the hearsay evidence was unreliable and should not have been considered.",
+        "outcome": "The appellate court found that the trial court improperly admitted the hearsay evidence, which significantly impacted the fairness of the trial. The court allowed the appeal, set aside the conviction, and ordered a new trial excluding the hearsay evidence.",
+        "constitutionalCitation": "Section 18(4) of the Zimbabwean Constitution: Every person accused of an offense has the right to a fair trial, which includes the right to examine, or have examined, witnesses against them."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Chikore v. The State",
+        "date": "2025-07-25",
+        "facts": "The appellant, Mr. Chikore, appealed his conviction for assault, claiming that the trial court's identification evidence was unreliable. The appellant argued that the witnesses' identification was influenced by suggestive police procedures.",
+        "outcome": "The appellate court found that the identification procedures used by the police were indeed suggestive and violated Mr. Chikore's right to a fair trial. The court allowed the appeal, set aside the conviction, and ordered a retrial with proper identification evidence.",
+        "constitutionalCitation": "Section 50(1)(c) of the Zimbabwean Constitution: Every person accused of an offense has the right to be presumed innocent until proven guilty, which includes the right not to have improperly obtained evidence admitted against them."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Mujuru v. The State",
+        "date": "2025-08-20",
+        "facts": "The appellant, Ms. Mujuru, appealed her conviction for theft, claiming that the trial court misapplied the law on the offense. The appellant argued that her actions did not meet the legal elements of theft.",
+        "outcome": "The appellate court reviewed the legal elements of theft and concluded that the trial court's interpretation was incorrect. The court allowed the appeal, set aside the conviction, and entered a verdict of acquittal for Ms. Mujuru.",
+        "constitutionalCitation": "Section 18(2) of the Zimbabwean Constitution: Every person accused of an offense has the right to be presumed innocent until proven guilty according to law."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Manyika v. The State",
+        "date": "2025-09-15",
+        "facts": "The appellant, Mr. Manyika, appealed his conviction for fraud, claiming that the trial court erred in admitting evidence obtained through entrapment. The appellant argued that his actions were induced by undercover agents.",
+        "outcome": "The appellate court found that the evidence obtained through entrapment violated Mr. Manyika's right to a fair trial. The court allowed the appeal, set aside the conviction, and excluded the evidence obtained through entrapment from any future proceedings.",
+        "constitutionalCitation": "Section 18(5) of the Zimbabwean Constitution: Every person accused of an offense has the right to a fair trial, which includes the right not to have evidence obtained in violation of their constitutional rights admitted against them."
+      }
+    },
+    {
+      "category": "appellateCases",
+      "case": {
+        "name": "Gumbo v. The State",
+        "date": "2025-10-10",
+        "facts": "The appellant, Mr. Gumbo, appealed his conviction for drug possession, arguing that the trial court erred in admitting evidence obtained through an illegal search and seizure. The appellant claimed that his constitutional rights were violated.",
+        "outcome": "The appellate court found that the evidence obtained through the illegal search and seizure violated Mr. Gumbo's constitutional rights. The court allowed the appeal, set aside the conviction, and excluded the unlawfully obtained evidence from any further proceedings.",
+        "constitutionalCitation": "Section 50(1)(a) of the Zimbabwean Constitution: Every person accused of an offense has the right to be presumed innocent until proven guilty, which includes the right not to have unlawfully obtained evidence admitted against them."
+      }
+    }
+  ]
+  

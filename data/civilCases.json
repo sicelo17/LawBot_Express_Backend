@@ -1,0 +1,166 @@
+{
+    "civilCases": [
+      {
+        "name": "Moyo v. Ndlovu Construction Company",
+        "date": "2024-01-10",
+        "facts": "Sibongile Moyo filed a lawsuit against Ndlovu Construction Company, alleging breach of contract and poor workmanship. The plaintiff claimed that the defendant failed to complete the construction project as agreed and delivered substandard results.",
+        "outcome": "The court found Ndlovu Construction Company liable for breach of contract and poor workmanship. The defendant was ordered to compensate Sibongile Moyo for the financial losses incurred, provide remedial work, and pay damages for the inconvenience caused.",
+        "constitutionalCitation": "Section 56(1) of the Zimbabwean Constitution: Every person has the right to administrative conduct that is lawful, prompt, efficient, reasonable, proportionate, and procedurally fair."
+      },
+      {
+        "name": "Chikwava v. Chisango Health Clinic",
+        "date": "2024-02-15",
+        "facts": "Tatenda Chikwava filed a lawsuit against Chisango Health Clinic, alleging medical negligence. The plaintiff claimed that the defendant's negligent actions during treatment resulted in further health complications.",
+        "outcome": "The court found Chisango Health Clinic guilty of medical negligence. The defendant was ordered to compensate Tatenda Chikwava for medical expenses, pain, suffering, and any other damages incurred.",
+        "constitutionalCitation": "Section 76(1) of the Zimbabwean Constitution: Every person has the right to have access to basic healthcare services, including reproductive healthcare."
+      },
+      {
+        "name": "Mukwamba v. Maposa Law Firm",
+        "date": "2024-03-20",
+        "facts": "Tendai Mukwamba filed a lawsuit against Maposa Law Firm, alleging professional negligence and failure to provide adequate legal representation. The plaintiff claimed that the defendant's negligence and inadequate legal advice resulted in an unfavorable outcome in a legal matter.",
+        "outcome": "The court found Maposa Law Firm liable for professional negligence. The defendant was ordered to compensate Tendai Mukwamba for any financial losses incurred due to the inadequate legal representation and provide damages for the negative impact caused.",
+        "constitutionalCitation": "Section 70(1) of the Zimbabwean Constitution: Every person has the right to access to justice, including the right to competent legal representation."
+      },
+      {
+        "name": "Ncube v. Masuku Insurance Company",
+        "date": "2024-04-25",
+        "facts": "Bongani Ncube filed a lawsuit against Masuku Insurance Company, alleging unfair denial of an insurance claim. The plaintiff claimed that the defendant unreasonably refused to honor a valid claim, causing financial hardship and distress.",
+        "outcome": "The court found Masuku Insurance Company guilty of unfair denial of an insurance claim. The defendant was ordered to compensate Bongani Ncube for the financial losses incurred, provide coverage as per the policy, and pay damages for the emotional distress caused.",
+        "constitutionalCitation": "Section 69(1) of the Zimbabwean Constitution: Every person has the right to administrative conduct that is lawful, reasonable, proportionate, and procedurally fair."
+      },
+      {
+        "name": "Dube v. Makoni Educational Institution",
+        "date": "2024-05-30",
+        "facts": "Sipho Dube filed a lawsuit against Makoni Educational Institution, alleging discrimination based on disability. The plaintiff claimed that the defendant denied reasonable accommodations and equal educational opportunities due to their disability.",
+        "outcome": "The court found Makoni Educational Institution guilty of discrimination based on disability. The defendant was ordered to provide reasonable accommodations, ensure equal educational opportunities, and pay damages for the discrimination suffered by Sipho Dube.",
+        "constitutionalCitation": "Section 56(1) of the Zimbabwean Constitution: Every person has the right to administrative conduct that is lawful, prompt, efficient, reasonable, proportionate, and procedurally fair."
+      },
+      {
+        "name": "Mazibuko v. Chikore Real Estate Agency",
+        "date": "2024-06-15",
+        "facts": "Nomsa Mazibuko filed a lawsuit against Chikore Real Estate Agency, alleging fraudulent misrepresentation. The plaintiff claimed that the defendant provided false information about a property, leading to financial losses and misinformed investment decisions.",
+        "outcome": "The court found Chikore Real Estate Agency liable for fraudulent misrepresentation. The defendant was ordered to compensate Nomsa Mazibuko for the financial losses incurred, provide restitution for the misrepresented property, and pay damages for the misleading information provided.",
+        "constitutionalCitation": "Section 68(1) of the Zimbabwean Constitution: Every person has the right to administrative conduct that is lawful, reasonable, proportionate, and procedurally fair."
+      },
+      {
+        "name": "Moyo v. Chirambira Construction Company",
+        "date": "2024-07-20",
+        "facts": "Tawanda Moyo filed a lawsuit against Chirambira Construction Company, alleging breach of contract and failure to complete a construction project within the agreed timeframe. The plaintiff claimed that the defendant's delays caused financial losses and inconvenience.",
+        "outcome": "The court found Chirambira Construction Company liable for breach of contract and failure to meet agreed deadlines. The defendant was ordered to compensate Tawanda Moyo for the financial losses incurred, provide completion of the project as per the contract, and pay damages for the inconvenience caused.",
+        "constitutionalCitation": "Section 56(1) of the Zimbabwean Constitution: Every person has the right to administrative conduct that is lawful, prompt, efficient, reasonable, proportionate, and procedurally fair."
+      },
+      {
+        "name": "Chisenga v. Kamunda Health Clinic",
+        "date": "2024-08-25",
+        "facts": "Patience Chisenga filed a lawsuit against Kamunda Health Clinic, alleging medical negligence resulting in severe health complications. The plaintiff claimed that the defendant's negligent actions during treatment caused permanent harm and emotional distress.",
+        "outcome": "The court found Kamunda Health Clinic guilty of medical negligence. The defendant was ordered to compensate Patience Chisenga for medical expenses, ongoing medical care, loss of income, and damages for the pain, suffering, and emotional distress endured.",
+        "constitutionalCitation": "Section 76(1) of the Zimbabwean Constitution: Every person has the right to have access to basic healthcare services, including reproductive healthcare."
+      },
+      {
+        "name": "Khumalo v. Nyathi Law Firm",
+        "date": "2024-09-30",
+        "facts": "Mthokozisi Khumalo filed a lawsuit against Nyathi Law Firm, alleging professional negligence and failure to provide competent legal advice. The plaintiff claimed that the defendant's negligence and inadequate representation led to an unfavorable legal outcome and financial losses.",
+        "outcome": "The court found Nyathi Law Firm liable for professional negligence. The defendant was ordered to compensate Mthokozisi Khumalo for the financial losses incurred due to the inadequate legal representation, provide restitution if possible, and pay damages for the negative impact caused.",
+        "constitutionalCitation": "Section 70(1) of the Zimbabwean Constitution: Every person has the right to access to justice, including the right to competent legal representation."
+      },
+      {
+        "name": "Mashingaidze v. Moyo Insurance Company",
+        "date": "2024-10-10",
+        "facts": "Rumbidzai Mashingaidze filed a lawsuit against Moyo Insurance Company, alleging unfair denial of an insurance claim. The plaintiff claimed that the defendant unreasonably refused to honor a valid claim, causing financial hardship and distress.",
+        "outcome": "The court found Moyo Insurance Company guilty of unfair denial of an insurance claim. The defendant was ordered to compensate Rumbidzai Mashingaidze for the financial losses incurred, provide coverage as per the policy, and pay damages for the emotional distress caused.",
+        "constitutionalCitation": "Section 69(1) of the Zimbabwean Constitution: Every person has the right to administrative conduct that is lawful, reasonable, proportionate, and procedurally fair."
+      },
+      {
+        "name": "Gwaze v. Muchena Educational Institution",
+        "date": "2024-11-15",
+        "facts": "Grace Gwaze filed a lawsuit against Muchena Educational Institution, alleging discrimination based on religion. The plaintiff claimed that the defendant denied her admission and equal educational opportunities based on her religious beliefs.",
+        "outcome": "The court found Muchena Educational Institution guilty of religious discrimination. The defendant was ordered to admit Grace Gwaze, provide equal educational opportunities, and pay damages for the discrimination suffered.",
+        "constitutionalCitation": "Section 56(1) of the Zimbabwean Constitution: Every person has the right to administrative conduct that is lawful, prompt, efficient, reasonable, proportionate, and procedurally fair."
+      },
+      {
+        "name": "Mukono v. Chirindo Real Estate Agency",
+        "date": "2024-12-20",
+        "facts": "Tariro Mukono filed a lawsuit against Chirindo Real Estate Agency, alleging fraudulent misrepresentation. The plaintiff claimed that the defendant provided false information about a property, leading to financial losses and misinformed investment decisions.",
+        "outcome": "The court found Chirindo Real Estate Agency liable for fraudulent misrepresentation. The defendant was ordered to compensate Tariro Mukono for the financial losses incurred, provide restitution for the misrepresented property, and pay damages for the misleading information provided.",
+        "constitutionalCitation": "Section 68(1) of the Zimbabwean Constitution: Every person has the right to administrative conduct that is lawful, reasonable, proportionate, and procedurally fair."
+      },
+      {
+        "name": "Sibanda v. Chiyangwa Construction Company",
+        "date": "2025-01-10",
+        "facts": "Nomathemba Sibanda filed a lawsuit against Chiyangwa Construction Company, alleging breach of contract and failure to complete a construction project as agreed. The plaintiff claimed that the defendant's delays and poor workmanship caused financial losses and frustration.",
+        "outcome": "The court found Chiyangwa Construction Company liable for breach of contract and poor workmanship. The defendant was ordered to compensate Nomathemba Sibanda for the financial losses incurred, provide completion of the project as per the contract, and pay damages for the inconvenience caused.",
+        "constitutionalCitation": "Section 56(1) of the Zimbabwean Constitution: Every person has the right to administrative conduct that is lawful, prompt, efficient, reasonable, proportionate, and procedurally fair."
+      },
+      {
+        "name": "Makoni v. Jena Health Clinic",
+        "date": "2025-02-15",
+        "facts": "Tinashe Makoni filed a lawsuit against Jena Health Clinic, alleging medical negligence resulting in severe health complications. The plaintiff claimed that the defendant's negligent actions during treatment caused permanent harm and emotional distress.",
+        "outcome": "The court found Jena Health Clinic guilty of medical negligence. The defendant was ordered to compensate Tinashe Makoni for medical expenses, ongoing medical care, loss of income, and damages for the pain, suffering, and emotional distress endured.",
+        "constitutionalCitation": "Section 76(1) of the Zimbabwean Constitution: Every person has the right to have access to basic healthcare services, including reproductive healthcare."
+      },
+      {
+        "name": "Mushonga v. Dube Law Firm",
+        "date": "2025-03-20",
+        "facts": "Farai Mushonga filed a lawsuit against Dube Law Firm, alleging professional negligence and failure to provide competent legal representation. The plaintiff claimed that the defendant's negligence and inadequate advice led to an unfavorable legal outcome and financial losses.",
+        "outcome": "The court found Dube Law Firm liable for professional negligence. The defendant was ordered to compensate Farai Mushonga for the financial losses incurred due to the inadequate legal representation, provide restitution if possible, and pay damages for the negative impact caused.",
+        "constitutionalCitation": "Section 70(1) of the Zimbabwean Constitution: Every person has the right to access to justice, including the right to competent legal representation."
+      },
+      {
+        "name": "Zulu v. Zimuto Insurance Company",
+        "date": "2025-04-25",
+        "facts": "Mandla Zulu filed a lawsuit against Zimuto Insurance Company, alleging unfair denial of an insurance claim. The plaintiff claimed that the defendant unreasonably refused to honor a valid claim, causing financial hardship and distress.",
+        "outcome": "The court found Zimuto Insurance Company guilty of unfair denial of an insurance claim. The defendant was ordered to compensate Mandla Zulu for the financial losses incurred, provide coverage as per the policy, and pay damages for the emotional distress caused.",
+        "constitutionalCitation": "Section 69(1) of the Zimbabwean Constitution: Every person has the right to administrative conduct that is lawful, reasonable, proportionate, and procedurally fair."
+      },
+      {
+        "name": "Mlilo v. Munemo Educational Institution",
+        "date": "2025-05-30",
+        "facts": "Nokuthula Mlilo filed a lawsuit against Munemo Educational Institution, alleging discrimination based on disability. The plaintiff claimed that the defendant denied reasonable accommodations and equal educational opportunities due to their disability.",
+        "outcome": "The court found Munemo Educational Institution guilty of discrimination based on disability. The defendant was ordered to provide reasonable accommodations, ensure equal educational opportunities, and pay damages for the discrimination suffered by Nokuthula Mlilo.",
+        "constitutionalCitation": "Section 56(1) of the Zimbabwean Constitution: Every person has the right to administrative conduct that is lawful, prompt, efficient, reasonable, proportionate, and procedurally fair."
+      },
+      {
+        "name": "Chibaya v. Mavhunga Real Estate Agency",
+        "date": "2025-06-15",
+        "facts": "Tariro Chibaya filed a lawsuit against Mavhunga Real Estate Agency, alleging fraudulent misrepresentation. The plaintiff claimed that the defendant provided false information about a property, leading to financial losses and misinformed investment decisions.",
+        "outcome": "The court found Mavhunga Real Estate Agency liable for fraudulent misrepresentation. The defendant was ordered to compensate Tariro Chibaya for the financial losses incurred, provide restitution for the misrepresented property, and pay damages for the misleading information provided.",
+        "constitutionalCitation": "Section 68(1) of the Zimbabwean Constitution: Every person has the right to administrative conduct that is lawful, reasonable, proportionate, and procedurally fair."
+      },
+      {
+        "name": "Nyathi v. Kambarami Construction Company",
+        "date": "2025-07-20",
+        "facts": "Tendai Nyathi filed a lawsuit against Kambarami Construction Company, alleging breach of contract and failure to complete a construction project within the agreed timeframe. The plaintiff claimed that the defendant's delays caused financial losses and inconvenience.",
+        "outcome": "The court found Kambarami Construction Company liable for breach of contract and failure to meet agreed deadlines. The defendant was ordered to compensate Tendai Nyathi for the financial losses incurred, provide completion of the project as per the contract, and pay damages for the inconvenience caused.",
+        "constitutionalCitation": "Section 56(1) of the Zimbabwean Constitution: Every person has the right to administrative conduct that is lawful, prompt, efficient, reasonable, proportionate, and procedurally fair."
+      },
+      {
+        "name": "Kunaka v. Maponga Health Clinic",
+        "date": "2025-08-25",
+        "facts": "Sekai Kunaka filed a lawsuit against Maponga Health Clinic, alleging medical negligence resulting in severe health complications. The plaintiff claimed that the defendant's negligent actions during treatment caused permanent harm and emotional distress.",
+        "outcome": "The court found Maponga Health Clinic guilty of medical negligence. The defendant was ordered to compensate Sekai Kunaka for medical expenses, ongoing medical care, loss of income, and damages for the pain, suffering, and emotional distress endured.",
+        "constitutionalCitation": "Section 76(1) of the Zimbabwean Constitution: Every person has the right to have access to basic healthcare services, including reproductive healthcare."
+      },
+      {
+        "name": "Mutasa v. Chibaya Law Firm",
+        "date": "2025-09-30",
+        "facts": "Tawanda Mutasa filed a lawsuit against Chibaya Law Firm, alleging professional negligence and failure to provide competent legal representation. The plaintiff claimed that the defendant's negligence and inadequate advice led to an unfavorable legal outcome and financial losses.",
+        "outcome": "The court found Chibaya Law Firm liable for professional negligence. The defendant was ordered to compensate Tawanda Mutasa for the financial losses incurred due to the inadequate legal representation, provide restitution if possible, and pay damages for the negative impact caused.",
+        "constitutionalCitation": "Section 70(1) of the Zimbabwean Constitution: Every person has the right to access to justice, including the right to competent legal representation."
+      },
+      {
+        "name": "Mupfumira v. Gumbo Insurance Company",
+        "date": "2025-10-10",
+        "facts": "Tinashe Mupfumira filed a lawsuit against Gumbo Insurance Company, alleging unfair denial of an insurance claim. The plaintiff claimed that the defendant unreasonably refused to honor a valid claim, causing financial hardship and distress.",
+        "outcome": "The court found Gumbo Insurance Company guilty of unfair denial of an insurance claim. The defendant was ordered to compensate Tinashe Mupfumira for the financial losses incurred, provide coverage as per the policy, and pay damages for the emotional distress caused.",
+        "constitutionalCitation": "Section 69(1) of the Zimbabwean Constitution: Every person has the right to administrative conduct that is lawful, reasonable, proportionate, and procedurally fair."
+      },
+      {
+        "name": "Moyo v. Mahachi Educational Institution",
+        "date": "2025-11-15",
+        "facts": "Patience Moyo filed a lawsuit against Mahachi Educational Institution, alleging discrimination based on religion. The plaintiff claimed that the defendant denied her admission and equal educational opportunities based on her religious beliefs.",
+        "outcome": "The court found Mahachi Educational Institution guilty of religious discrimination. The defendant was ordered to admit Patience Moyo, provide equal educational opportunities, and pay damages for the discrimination suffered.",
+        "constitutionalCitation": "Section 56(1) of the Zimbabwean Constitution: Every person has the right to administrative conduct that is lawful, prompt, efficient, reasonable, proportionate, and procedurally fair."
+      }
+    ]
+  }
+  

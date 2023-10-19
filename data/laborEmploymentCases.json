@@ -1,0 +1,193 @@
+[
+    {
+      "category": "laborEmploymentCases",
+      "case": {
+        "name": "Moyo v. XYZ Company",
+        "date": "2023-01-15",
+        "facts": "John Moyo, an employee of XYZ Company, filed a lawsuit against the company for wrongful termination. The plaintiff claimed that he was dismissed without proper cause or following due process as required by the Zimbabwean labor laws.",
+        "outcome": "The court found in favor of John Moyo, ruling that his termination was unjustified and in violation of his employment rights. XYZ Company was ordered to reinstate the plaintiff and provide compensation for lost wages.",
+        "constitutionalCitation": "Section 65(1) of the Zimbabwean Constitution: Every person has the right not to be unfairly dismissed from work."
+      }
+    },
+    {
+      "category": "laborEmploymentCases",
+      "case": {
+        "name": "Chirwa v. ABC Corporation",
+        "date": "2023-02-28",
+        "facts": "Emily Chirwa, a female employee of ABC Corporation, filed a gender discrimination lawsuit against the company. The plaintiff alleged that she was denied a promotion despite being more qualified than the male candidate who was selected.",
+        "outcome": "The court ruled in favor of Emily Chirwa, stating that ABC Corporation engaged in gender discrimination. The company was ordered to promote the plaintiff and provide compensation for the damages suffered.",
+        "constitutionalCitation": "Section 56(1) of the Zimbabwean Constitution: No person may unfairly discriminate directly or indirectly against anyone on grounds of sex."
+      }
+    },
+    {
+      "category": "laborEmploymentCases",
+      "case": {
+        "name": "Mukono v. PQR Industries",
+        "date": "2023-03-15",
+        "facts": "Sarah Mukono, an employee of PQR Industries, filed a case against the company for non-payment of overtime wages. The plaintiff alleged that she regularly worked overtime hours but was never compensated for the additional work.",
+        "outcome": "The court found in favor of Sarah Mukono, ruling that PQR Industries unlawfully withheld overtime wages. The company was ordered to pay the plaintiff the outstanding overtime wages owed, along with any applicable penalties.",
+        "constitutionalCitation": "Section 65(3) of the Zimbabwean Constitution: Every employee has the right to fair and safe labor practices, including the right to be paid a fair and reasonable wage for work performed, including overtime."
+      }
+    },
+    {
+      "category": "laborEmploymentCases",
+      "case": {
+        "name": "Kapoor v. LMN Corporation",
+        "date": "2023-04-20",
+        "facts": "Raj Kapoor, an employee of LMN Corporation, filed a case against the company for workplace harassment. The plaintiff alleged that he was subjected to persistent verbal abuse and discrimination based on his national origin.",
+        "outcome": "The court ruled in favor of Raj Kapoor, finding LMN Corporation liable for workplace harassment. The company was ordered to take appropriate measures to address the issue, provide compensation to the plaintiff, and implement policies to prevent future incidents of harassment.",
+        "constitutionalCitation": "Section 56(3) of the Zimbabwean Constitution: No person may unfairly discriminate directly or indirectly against anyone on grounds of race, tribe, place of origin, national or ethnic origin."
+      }
+    },
+    {
+      "category": "laborEmploymentCases",
+      "case": {
+        "name": "Mazibuko v. UVW Mine",
+        "date": "2023-05-10",
+        "facts": "Thabo Mazibuko, a miner employed by UVW Mine, filed a case against the company for unsafe working conditions. The plaintiff claimed that the mine failed to provide adequate safety measures, leading to frequent accidents and injuries among the workers.",
+        "outcome": "The court ruled in favor of Thabo Mazibuko, declaring UVW Mine responsible for the unsafe working conditions. The mine was ordered to improve safety protocols, compensate the plaintiff for damages, and provide necessary medical treatment to injured workers.",
+        "constitutionalCitation": "Section 65(2) of the Zimbabwean Constitution: Every employee has the right to safe and healthy working conditions, to be protected from all forms of violence and harassment, and to receive information and instruction concerning workplace hazards."
+      }
+    },
+    {
+      "category": "laborEmploymentCases",
+      "case": {
+        "name": "Ncube v. RST Manufacturing",
+        "date": "2023-06-20",
+        "facts": "Grace Ncube, an employee of RST Manufacturing, filed a case against the company for unfair labor practices. The plaintiff alleged that she was denied maternity leave and faced discrimination after returning to work following the birth of her child.",
+        "outcome": "The court ruled in favor of Grace Ncube, stating that RST Manufacturing violated her rights to maternity leave and subjected her to unfair treatment. The company was ordered to provide the plaintiff with appropriate maternity benefits, cease discriminatory practices, and compensate her for the damages suffered.",
+        "constitutionalCitation": "Section 65(4) of the Zimbabwean Constitution: Every employee has the right to fair labor practices, which include the right to reasonable maternity leave and the right not to be unfairly discriminated against on the grounds of pregnancy."
+      }
+    },
+    {
+      "category": "laborEmploymentCases",
+      "case": {
+        "name": "Moyo v. QRS Corporation",
+        "date": "2023-07-15",
+        "facts": "Joseph Moyo, an employee of QRS Corporation, filed a case against the company for non-payment of wages. The plaintiff claimed that his employer consistently delayed his salary payments, causing financial hardship and distress.",
+        "outcome": "The court ruled in favor of Joseph Moyo, stating that QRS Corporation violated his rights by failing to pay wages on time. The company was ordered to pay the plaintiff the outstanding wages owed, along with any applicable penalties.",
+        "constitutionalCitation": "Section 65(3) of the Zimbabwean Constitution: Every employee has the right to fair and safe labor practices, including the right to be paid a fair and reasonable wage for work performed."
+      }
+    },
+    {
+      "category": "laborEmploymentCases",
+      "case": {
+        "name": "Chisenga v. STU Bank",
+        "date": "2023-08-10",
+        "facts": "Sandra Chisenga, a bank teller employed by STU Bank, filed a lawsuit against the bank for sexual harassment by her supervisor. The plaintiff alleged that her supervisor made unwelcome advances, created a hostile work environment, and retaliated against her when she rejected his advances.",
+        "outcome": "The court found in favor of Sandra Chisenga, ruling that STU Bank failed to provide a safe and non-discriminatory work environment. The bank was ordered to take appropriate disciplinary action against the supervisor, implement anti-sexual harassment policies, and compensate the plaintiff for the damages suffered.",
+        "constitutionalCitation": "Section 56(2) of the Zimbabwean Constitution: No person may unfairly discriminate directly or indirectly against anyone on grounds of gender, including sexual harassment."
+      }
+    },
+    {
+      "category": "laborEmploymentCases",
+      "case": {
+        "name": "Mukwena v. DEF Retail",
+        "date": "2023-09-20",
+        "facts": "Tendai Mukwena, an employee of DEF Retail, filed a case against the company for unfair dismissal. The plaintiff claimed that she was fired without just cause and without following the proper procedures outlined in the employment contract.",
+        "outcome": "The court ruled in favor of Tendai Mukwena, stating that DEF Retail unlawfully dismissed the plaintiff. The company was ordered to reinstate the plaintiff, provide compensation for lost wages, and comply with the employment laws and procedures during any future dismissals.",
+        "constitutionalCitation": "Section 65(1) of the Zimbabwean Constitution: Every person has the right not to be unfairly dismissed from work."
+      }
+    },
+    {
+      "category": "laborEmploymentCases",
+      "case": {
+        "name": "Kamara v. GHI Corporation",
+        "date": "2023-10-15",
+        "facts": "Fatima Kamara, an employee of GHI Corporation, filed a lawsuit against the company for wage discrimination. The plaintiff alleged that she was paid less than her male counterparts for performing the same job with equal skill and qualifications.",
+        "outcome": "The court ruled in favor of Fatima Kamara, finding GHI Corporation guilty of wage discrimination. The company was ordered to rectify the wage disparity, provide equal pay for equal work, and compensate the plaintiff for the lost wages due to discriminatory practices.",
+        "constitutionalCitation": "Section 56(1) of the Zimbabwean Constitution: No person may unfairly discriminate directly or indirectly against anyone on grounds of sex."
+      }
+    },
+    {
+      "category": "laborEmploymentCases",
+      "case": {
+        "name": "Maposa v. JKL Manufacturing",
+        "date": "2023-11-20",
+        "facts": "Blessing Maposa, an employee of JKL Manufacturing, filed a case against the company for occupational health and safety violations. The plaintiff claimed that the company failed to provide proper safety equipment and training, resulting in workplace accidents and injuries.",
+        "outcome": "The court found in favor of Blessing Maposa, ruling that JKL Manufacturing neglected its duty to provide a safe working environment. The company was ordered to improve safety measures, compensate the plaintiff for damages, and implement necessary training programs to prevent future accidents.",
+        "constitutionalCitation": "Section 65(2) of the Zimbabwean Constitution: Every employee has the right to safe and healthy working conditions, to be protected from all forms of violence and harassment, and to receive information and instruction concerning workplace hazards."
+      }
+    },
+    {
+      "category": "laborEmploymentCases",
+      "case": {
+        "name": "Dube v. MNO Services",
+        "date": "2023-12-15",
+        "facts": "Tawanda Dube, an employee of MNO Services, filed a case against the company for breach of contract. The plaintiff alleged that the company failed to fulfill its contractual obligations, including providing agreed-upon benefits and working conditions.",
+        "outcome": "The court ruled in favor of Tawanda Dube, stating that MNO Services breached the employment contract. The company was ordered to fulfill its contractual obligations, compensate the plaintiff for any losses incurred, and adhere to the terms of employment agreements in the future.",
+        "constitutionalCitation": "Section 65(5) of the Zimbabwean Constitution: Every employee has the right to fair and reasonable notice of termination and the right not to be unfairly dismissed."
+      }
+    },
+    {
+      "category": "laborEmploymentCases",
+      "case": {
+        "name": "Musonda v. OPQ Corporation",
+        "date": "2024-01-20",
+        "facts": "Enock Musonda, an employee of OPQ Corporation, filed a lawsuit against the company for constructive dismissal. The plaintiff claimed that the company created a hostile work environment, making it unbearable for him to continue working.",
+        "outcome": "The court ruled in favor of Enock Musonda, stating that OPQ Corporation's actions amounted to constructive dismissal. The company was ordered to compensate the plaintiff for lost wages, benefits, and damages caused by the constructive dismissal.",
+        "constitutionalCitation": "Section 65(6) of the Zimbabwean Constitution: Every employee has the right not to be unfairly treated or dismissed by their employer."
+      }
+    },
+    {
+      "category": "laborEmploymentCases",
+      "case": {
+        "name": "Sibanda v. RUV Hotel",
+        "date": "2024-02-15",
+        "facts": "Thandiwe Sibanda, a hotel employee, filed a case against RUV Hotel for unpaid leave entitlements. The plaintiff alleged that the hotel consistently denied her the right to take annual leave and failed to compensate her accordingly.",
+        "outcome": "The court found in favor of Thandiwe Sibanda, ruling that RUV Hotel violated her rights by denying paid leave entitlements. The hotel was ordered to grant the plaintiff the accrued leave, compensate her for the unpaid leave, and adhere to the provisions of the labor laws regarding annual leave.",
+        "constitutionalCitation": "Section 65(3) of the Zimbabwean Constitution: Every employee has the right to fair and safe labor practices, including the right to be paid a fair and reasonable wage for work performed, including leave entitlements."
+      }
+    },
+    {
+      "category": "laborEmploymentCases",
+      "case": {
+        "name": "Kumalo v. XYZ Construction",
+        "date": "2024-03-20",
+        "facts": "Sipho Kumalo, a construction worker employed by XYZ Construction, filed a lawsuit against the company for workplace injuries. The plaintiff claimed that the company failed to provide adequate safety equipment and training, leading to a severe injury while on the job.",
+        "outcome": "The court ruled in favor of Sipho Kumalo, stating that XYZ Construction neglected its responsibility to provide a safe working environment. The company was ordered to compensate the plaintiff for the damages suffered, provide necessary medical treatment, and improve safety measures at the workplace.",
+        "constitutionalCitation": "Section 65(2) of the Zimbabwean Constitution: Every employee has the right to safe and healthy working conditions, to be protected from all forms of violence and harassment, and to receive information and instruction concerning workplace hazards."
+      }
+    },
+    {
+      "category": "laborEmploymentCases",
+      "case": {
+        "name": "Moyo v. LMN Corporation",
+        "date": "2024-04-15",
+        "facts": "Grace Moyo, an employee of LMN Corporation, filed a case against the company for discrimination based on HIV status. The plaintiff alleged that she was treated unfairly, denied promotions, and subjected to stigmatization due to her HIV-positive status.",
+        "outcome": "The court ruled in favor of Grace Moyo, finding LMN Corporation guilty of discrimination. The company was ordered to cease discriminatory practices, provide equal employment opportunities to the plaintiff, and compensate her for the damages suffered.",
+        "constitutionalCitation": "Section 56(1) of the Zimbabwean Constitution: No person may unfairly discriminate directly or indirectly against anyone on grounds of health status, including HIV/AIDS status."
+      }
+    },
+    {
+      "category": "laborEmploymentCases",
+      "case": {
+        "name": "Nyathi v. PQR Manufacturing",
+        "date": "2024-05-20",
+        "facts": "Gugu Nyathi, an employee of PQR Manufacturing, filed a case against the company for unpaid overtime wages. The plaintiff claimed that she regularly worked overtime hours but was never compensated accordingly as required by the labor laws.",
+        "outcome": "The court found in favor of Gugu Nyathi, ruling that PQR Manufacturing unlawfully withheld overtime wages. The company was ordered to pay the plaintiff the outstanding overtime wages owed, along with any applicable penalties.",
+        "constitutionalCitation": "Section 65(3) of the Zimbabwean Constitution: Every employee has the right to fair and safe labor practices, including the right to be paid a fair and reasonable wage for work performed, including overtime."
+      }
+    },
+    {
+      "category": "laborEmploymentCases",
+      "case": {
+        "name": "Mukwasha v. ABC Bank",
+        "date": "2024-06-15",
+        "facts": "Tinashe Mukwasha, a bank employee, filed a case against ABC Bank for unfair labor practices. The plaintiff alleged that he was denied promotions and faced hostile treatment due to his political affiliation, which violated his constitutional rights.",
+        "outcome": "The court ruled in favor of Tinashe Mukwasha, stating that ABC Bank engaged in unfair labor practices and discrimination. The bank was ordered to cease discriminatory practices, provide equal employment opportunities, and compensate the plaintiff for the damages suffered.",
+        "constitutionalCitation": "Section 56(1) of the Zimbabwean Constitution: No person may unfairly discriminate directly or indirectly against anyone on grounds of political affiliation or opinion."
+      }
+    },
+    {
+      "category": "laborEmploymentCases",
+      "case": {
+        "name": "Dube v. STU Corporation",
+        "date": "2024-07-20",
+        "facts": "Nomalanga Dube, an employee of STU Corporation, filed a case against the company for sexual harassment by her supervisor. The plaintiff alleged that her supervisor made unwelcome advances, created a hostile work environment, and retaliated against her when she rejected his advances.",
+        "outcome": "The court found in favor of Nomalanga Dube, ruling that STU Corporation failed to provide a safe and non-discriminatory work environment. The company was ordered to take appropriate disciplinary action against the supervisor, implement anti-sexual harassment policies, and compensate the plaintiff for the damages suffered.",
+        "constitutionalCitation": "Section 56(3) of the Zimbabwean Constitution: No person may unfairly discriminate directly or indirectly against anyone on grounds of sex, including sexual harassment."
+      }
+    }
+  ]
+  
